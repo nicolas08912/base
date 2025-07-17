@@ -4,3 +4,4 @@
 
 - Initial release
 - fix: link the usage section
+- docs: link the usage section
